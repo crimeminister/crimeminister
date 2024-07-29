@@ -7,5 +7,6 @@ I am a software developer with an interest in functional programming, especially
 - 💖 Current list of stuff I'm excited about: [Rama](https://redplanetlabs.com/), [wasmCloud](https://wasmcloud.com/), [Convex](https://convex.world/), [Polylith](https://polylith.gitbook.io/polylith)
 - 🔐 My PGP [public key](./public-key.asc) has fingerprint `E3BD A35E 590A 8D29 701A  9723 F448 7FA0 4BC6 44F2`
 - 📧 Reach me via e-mail at <robert@crimeminister.org>
+- 🪙 Sponsor my work at via [GitHub Sponsors](https://github.com/sponsors/crimeminister)
 
 I'd love to hear from you about interesting projects or work opportunities.
